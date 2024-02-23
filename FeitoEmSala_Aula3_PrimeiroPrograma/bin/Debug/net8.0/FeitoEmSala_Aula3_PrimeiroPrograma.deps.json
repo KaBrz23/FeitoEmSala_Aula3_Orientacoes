@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FeitoEmSala_Aula3_PrimeiroPrograma/1.0.0": {
+        "runtime": {
+          "FeitoEmSala_Aula3_PrimeiroPrograma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeitoEmSala_Aula3_PrimeiroPrograma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
