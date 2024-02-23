@@ -9,8 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378b03bf-1fc2-4709-ba40-cda90b244170" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FeitoEmSala_Aula3_Orientacoes/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="378b03bf-1fc2-4709-ba40-cda90b244170" name="Changes" comment="Primeiro programa">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FeitoEmSala_Aula3_Orientacoes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FeitoEmSala_Aula3_Orientacoes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -122,19 +123,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708648311044</updated>
-      <workItem from="1708648318110" duration="4852000" />
+      <workItem from="1708648318110" duration="5344000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro programa">
+      <option name="closed" value="true" />
+      <created>1708653416098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708653416098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro programa">
+      <option name="closed" value="true" />
+      <created>1708653573566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708653573566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -142,5 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Primeiro programa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro programa" />
   </component>
 </project>
